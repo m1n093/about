@@ -8,6 +8,8 @@
 * Provider v3 architecture [Tutorial](https://www.filledstacks.com/post/flutter-provider-v3-architecture/)
 * pref_dessert [pref_dessert](https://pub.dev/packages/pref_dessert)
 
+![Triple Counter screen](assets/triple_counter.PNG)
+
 WEB: https://triple-counter.web.app/  
 GooglePlay: [Triple Counter](https://play.google.com/store/apps/details?id=app.web.triple_counter)
 
@@ -16,3 +18,5 @@ GooglePlay: [Triple Counter](https://play.google.com/store/apps/details?id=app.w
 * Bloc Library v6.0.x (https://bloclibrary.dev/)
 * Appwrite (https://appwrite.io/)
 
+![Entry screen light](assets/volume_power_entry_light.gif)
+![Entry screen dark](assets/volume_power_entry_dark.gif)
