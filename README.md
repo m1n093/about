@@ -13,10 +13,18 @@
 WEB: https://triple-counter.web.app/  
 GooglePlay: [Triple Counter](https://play.google.com/store/apps/details?id=app.web.triple_counter)
 
-## Volume Power [in progress]
+## Volume Power (Flutter) [in progress]
 ##### Used:
 * Bloc Library v6.0.x (https://bloclibrary.dev/)
 * Appwrite (https://appwrite.io/)
 
 ![Entry screen light](assets/volume_power_entry_light.gif)
 ![Entry screen dark](assets/volume_power_entry_dark.gif)
+
+<div>
+  <img src="assets/login.jpg" height="200">
+  <img src="assets/login_large.jpg" height="200">
+  <img src="assets/add_exercise.jpg" height="200">
+  <img src="assets/exercises.jpg" height="200">
+  <img src="assets/create_workout.jpg" height="200">
+</div>
