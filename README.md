@@ -22,9 +22,9 @@ GooglePlay: [Triple Counter](https://play.google.com/store/apps/details?id=app.w
 ![Entry screen dark](assets/volume_power_entry_dark.gif)
 
 <div>
-  <img src="assets/login.jpg" height="200">
-  <img src="assets/login_large.jpg" height="200">
-  <img src="assets/add_exercise.jpg" height="200">
-  <img src="assets/exercises.jpg" height="200">
-  <img src="assets/create_workout.jpg" height="200">
+  <img src="assets/login.jpg" height="180">
+  <img src="assets/login_large.jpg" height="180">
+  <img src="assets/add_exercise.jpg" height="180">
+  <img src="assets/exercises.jpg" height="180">
+  <img src="assets/create_workout.jpg" height="180">
 </div>
